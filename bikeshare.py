@@ -178,17 +178,14 @@ def user_stats(df):
 def rawData(df):
 
     print("Do you wnat to see more Data ?")
-    Row =1
-    Row2 =6
+    count = 0
     while True:
-
-        moreData =input("more ? yes or no ").lower()
-        if moreData != "yes":
-            break
+        more_data = input("More data Yes or No?").lower()
+        if more_data == "yes":
+            print(df.iloc[count:count+5])
+            count += 5
         else:
-            print(df.iloc[Row : Row2])
-            Row +=5
-            Row2 +=5
+            break
 
 
 
