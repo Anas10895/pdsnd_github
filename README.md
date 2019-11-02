@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
-
+bikeshare.py
+README.md
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project is about finding useful information from bikeshare database by using python and pandas
+
 
 ### Files used
-Include the files used
-
+Python 3
+Pandas
+Numpy
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+my instractor Ahmad
+Stack Overflow
+
 
