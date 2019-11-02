@@ -1,6 +1,5 @@
 ### Date created
-bikeshare.py
-README.md
+Saturday, 2 November 2019
 ### Project Title
 Explore US Bikeshare Data
 
@@ -15,7 +14,8 @@ Numpy
 
 
 ### Credits
-my instractor Ahmad
+instractor Ahmad
+Udacity
 Stack Overflow
 
 
